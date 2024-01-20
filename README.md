@@ -1,6 +1,6 @@
 # About the Project
 
-This project begins with ingesting the NYC Parking Violations data from 01-July-2022 to 30-June-2023. The dataset has more than 20 million rows and 40 columns. Cleaning, analyzing and visualising this large dataset from different angles was the inital part of the work, grouping it by date and hour features followed. 
+This project begins with ingesting the NYC Parking Violations data from 01-July-2022 to 30-June-2023. It is a freshly launched dataset which can be found on [NYC Open Data Portal](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2023/869v-vr48). It has more than 20 million rows and 40 columns. Cleaning, analyzing and visualising this large dataset from different angles was the inital part of the work, grouping it by date and hour features followed. 
 
 Soon after, I ingested another dataset containing hourly weather data for respective dates. Cleaning this dataset was once again crucial before merging it with Parking Violations. This merge let me answer an important question I had planned to ask to my dataframe prior to starting my analysis: "Are weather conditions, spesifically rain, assosicated with the number of parking violations?". I approached this question from various perspectives to find the answers I needed. Although the results surprised me, I believe I can say that I was content with my findings. 
 
